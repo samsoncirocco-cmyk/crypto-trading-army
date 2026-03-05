@@ -1,0 +1,14 @@
+# Core HTTP + auth
+requests>=2.31.0
+cryptography>=42.0.0
+python-dotenv>=1.0.0
+
+# Async (notifier.py)
+aiohttp>=3.9.0
+
+# Scheduler daemon
+apscheduler>=3.10.0
+
+# Data analysis (backtest, regime detector, sweep engine)
+pandas>=2.0.0
+numpy>=1.26.0
